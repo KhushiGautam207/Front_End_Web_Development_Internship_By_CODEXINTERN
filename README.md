@@ -1,10 +1,5 @@
-Here's a draft for the README file based on your internship offer with CODEXINTERN:
-
----
 
 # Front-End Web Development Internship - CODEXINTERN
-
-
 
 ## Internship Details
 
