@@ -41,10 +41,8 @@ This repository includes:
 
 I am grateful to CODEXINTERN for this opportunity and their guidance throughout the internship. Special thanks to the team for their support and mentorship.
 
-## Contact
+## Contact Information
 
 If you have any questions or suggestions regarding this repository, feel free to contact me via GitHub or email me at [services.codexintern@gmail.com](mailto:services.codexintern@gmail.com).
 
----
 
-Let me know if you'd like to modify or add anything!
