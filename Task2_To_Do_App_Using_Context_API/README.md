@@ -2,7 +2,7 @@
 
 ## Overview
 
-Task 2 of my CODEXINTERN Front-End Web Development Internship is a To-Do Application. This application leverages the Context API for state management and provides features to add, delete, and update tasks efficiently. It serves as a practical demonstration of using React Context API to handle application state in a scalable manner.
+**Task 2** of my **CODEXINTERN Front-End Web Development Internship** is a To-Do Application. This application leverages the Context API for state management and provides features to add, delete, and update tasks efficiently. It serves as a practical demonstration of using React Context API to handle application state in a scalable manner.
 
 ## Features
 
