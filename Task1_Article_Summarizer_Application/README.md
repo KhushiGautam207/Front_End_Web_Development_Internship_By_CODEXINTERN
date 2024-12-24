@@ -31,7 +31,7 @@ To run this application locally, ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Article_Summarizer
+   cd Article_Summarizer_Application
    ```
 3. Install dependencies:
    ```bash
