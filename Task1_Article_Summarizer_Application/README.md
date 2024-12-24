@@ -13,7 +13,7 @@ Task 1 of my CODEXINTERN Front-End Web Development Internship is the Article Sum
 ## Technology Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Framework:** React, tailwind CSS
+- **Framework:** React, Tailwind CSS
 - **API Integration:** RapidAPI
 
 ## Prerequisites
