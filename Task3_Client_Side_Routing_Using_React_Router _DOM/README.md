@@ -2,7 +2,7 @@
 
 ## Overview
 
-Task 3 of my CODEXINTERN Front-End Web Development Internship is a React application that demonstrates client-side routing using **React-Router-Dom**. The application consists of multiple components, including a fixed header and footer, while other components such as Home, Blog, and Feature change dynamically based on the route.
+**Task 3** of my **CODEXINTERN Front-End Web Development Internship** is a React application that demonstrates client-side routing using **React-Router-Dom**. The application consists of multiple components, including a fixed header and footer, while other components such as Home, Blog, and Feature change dynamically based on the route.
 
 ## Features
 
