@@ -2,7 +2,7 @@
 
 ## Overview
 
-Task 1 of my CODEXINTERN Front-End Web Development Internship is the Article Summarizer Web Application is designed to provide a summarized version of any article or webpage. By inputting a URL of an article or website, users can quickly obtain a concise summary of the content. This feature is implemented using **RapidAPI**, which provides powerful tools for text analysis and summarization.
+**Task 1** of my **CODEXINTERN Front-End Web Development Internship** is a Article Summarizer Web Application is designed to provide a summarized version of any article or webpage. By inputting a URL of an article or website, users can quickly obtain a concise summary of the content. This feature is implemented using **RapidAPI**, which provides powerful tools for text analysis and summarization.
 
 ## Features
 
